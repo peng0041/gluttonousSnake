@@ -11,6 +11,7 @@ function SnakeInit() {
     this.currentDiret = "";   //Current direction of movement
     this.bindStartEvent();   //Bind keyboard, click event
     this.score = 0;
+    //modified at github
 }
 SnakeInit.prototype.cashDectet = function () {
 /*    
