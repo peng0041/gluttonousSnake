@@ -12,6 +12,7 @@ function SnakeInit() {
     this.bindStartEvent();   //Bind keyboard, click event
     this.score = 0;
     //modified at github
+    // modified at local-try - just change local username and email, push and pull by https or ssh 
 }
 SnakeInit.prototype.cashDectet = function () {
 /*    
