@@ -14,6 +14,7 @@ function SnakeInit() {
     //modified at github
     // modified at local-try - just change local username and email, push and pull by https or ssh 
     // pull from github main. now in different user
+    // back to new user-2
 }
 SnakeInit.prototype.cashDectet = function () {
 /*    
