@@ -13,6 +13,7 @@ function SnakeInit() {
     this.score = 0;
     //modified at github
     // modified at local-try - just change local username and email, push and pull by https or ssh 
+    // pull from github main. now in different user
 }
 SnakeInit.prototype.cashDectet = function () {
 /*    
